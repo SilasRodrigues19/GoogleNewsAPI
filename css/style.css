@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Varela Round', sans-serif;
+}
+
+body {
+	background-color: #4F4F4F;
+	color: #fff;
+	overflow-x: hidden;
+}
+
+/* Class */
+
+.container-fluid {
+	width: 90%;
+}
+
+.jumbotron, ::selection {
+	max-width: 100%;
+	background-color: #153449;
+}
+
+.jumbotron h1, p {
+	text-align: center;
+	color: #fff;
+}
+
+.jumbotron img {
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	width: 85px;
+	height: 85px;
+}
+
+.imgBx {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.imgBx img {
+	pointer-events: none;
+	user-select: none;
+	width: calc(100% + 10px);
+	padding: 10px;
+	height: 250px;
+}
+
+.News {
+	margin: 30px;
+	text-align: left;
+	border: 2px solid lightgray;
+	box-shadow:  5px 5px 15px 5px #808080;
+}
+
+.News p {
+	text-align: left;
+}
+
+.News .News-info {
+	padding: 50px;
+}
+
+.News-info strong {
+	color: darkgray;
+}
+
+.News-info h2, h5, h6, p {
+	border-bottom: 10px solid transparent;
+}
