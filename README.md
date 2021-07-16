@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://silasdev.epizy.com">
+  <a href="#">
     <img src="https://freepngimg.com/download/newspaper/6-2-newspaper-png-clipart.png" alt="Logo" width="80" height="80">
   </a>
 
