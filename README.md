@@ -101,3 +101,6 @@ Project Link: [https://github.com/SilasRodrigues19/Google-News-API](https://gith
 [license-url]: https://github.com/SilasRodrigues19/Google-News-API/blob/main/LICENSE
 [product-screenshot]: https://github.com/SilasRodrigues19/Google-News-API/blob/main/img/googleapi.png?raw=true
 
+<br><hr>
+[🔼 Back to top](#Google-News-API)
+
