@@ -1,4 +1,5 @@
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT Licence][license-shield]][license-url]
 
